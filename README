@@ -1,0 +1,14 @@
+ASCanvas
+
+This package is a set of developer utilities, implementing the HTML 5 Canvas
+standard in ActionScript primarily by using  the flash.display namespace.
+
+Unless otherwise noted:
+        All source code and documentation is released into public domain and CC0.
+        http://creativecommons.org/publicdomain/zero/1.0/
+        http://creativecommons.org/licenses/publicdomain/
+
+Should you have any questions about licensing or records, please consult with Jumis, Inc.
+w3canvas at jumis.com
+
+
